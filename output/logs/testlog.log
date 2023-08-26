@@ -1,0 +1,902 @@
+2023-07-11 20:53:32,921 - logger_file -INFO - Tekschool logo is displayed
+2023-07-12 10:47:53,392 - logger_file -INFO - Tekschool logo is displayed
+2023-07-12 10:49:28,400 - logger_file -INFO - Tekschool logo is displayed
+2023-07-12 12:17:54,493 - logger_file -INFO - Tekschool logo is displayed
+2023-07-12 12:20:07,091 - logger_file -INFO - Tekschool logo is displayed
+2023-07-12 17:11:22,547 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-12 17:11:22,714 - logger_file -INFO - Email and Password were entered successfully
+2023-07-12 17:11:22,771 - logger_file -INFO - Login button was clicked successfully
+2023-07-12 17:11:23,116 - logger_file -INFO - User is logged in successfully
+2023-07-12 18:30:42,944 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-12 18:30:43,013 - logger_file -INFO - Create new account bttn clicked successfully
+2023-07-12 18:30:43,296 - logger_file -INFO - User information was entered successfully
+2023-07-12 18:30:43,353 - logger_file -INFO - Signup button was clicked sucessfully
+2023-07-12 18:31:25,619 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-12 18:31:25,687 - logger_file -INFO - Create new account bttn clicked successfully
+2023-07-12 18:31:25,984 - logger_file -INFO - User information was entered successfully
+2023-07-12 18:31:26,041 - logger_file -INFO - Signup button was clicked sucessfully
+2023-07-12 18:31:46,462 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-12 18:31:46,533 - logger_file -INFO - Create new account bttn clicked successfully
+2023-07-12 18:31:46,826 - logger_file -INFO - User information was entered successfully
+2023-07-12 18:31:46,880 - logger_file -INFO - Signup button was clicked sucessfully
+2023-07-12 18:31:47,292 - logger_file -INFO - User account is created successfully
+2023-07-12 18:31:49,317 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-12 18:31:49,374 - logger_file -INFO - Create new account bttn clicked successfully
+2023-07-12 18:31:49,657 - logger_file -INFO - User information was entered successfully
+2023-07-12 18:31:49,711 - logger_file -INFO - Signup button was clicked sucessfully
+2023-07-12 18:31:50,109 - logger_file -INFO - User account is created successfully
+2023-07-12 18:31:52,146 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-12 18:31:52,208 - logger_file -INFO - Create new account bttn clicked successfully
+2023-07-12 18:31:52,498 - logger_file -INFO - User information was entered successfully
+2023-07-12 18:31:52,548 - logger_file -INFO - Signup button was clicked sucessfully
+2023-07-12 18:31:52,918 - logger_file -INFO - User account is created successfully
+2023-07-12 18:32:30,061 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-12 18:32:30,115 - logger_file -INFO - Create new account bttn clicked successfully
+2023-07-12 18:32:30,396 - logger_file -INFO - User information was entered successfully
+2023-07-12 18:32:30,447 - logger_file -INFO - Signup button was clicked sucessfully
+2023-07-12 18:33:35,044 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-12 18:33:35,115 - logger_file -INFO - Create new account bttn clicked successfully
+2023-07-12 18:33:35,398 - logger_file -INFO - User information was entered successfully
+2023-07-12 18:33:35,454 - logger_file -INFO - Signup button was clicked sucessfully
+2023-07-12 18:33:35,832 - logger_file -INFO - User account is created successfully
+2023-07-12 18:33:37,897 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-12 18:33:37,954 - logger_file -INFO - Create new account bttn clicked successfully
+2023-07-12 18:33:38,239 - logger_file -INFO - User information was entered successfully
+2023-07-12 18:33:38,291 - logger_file -INFO - Signup button was clicked sucessfully
+2023-07-12 18:33:38,690 - logger_file -INFO - User account is created successfully
+2023-07-12 18:33:40,713 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-12 18:33:40,773 - logger_file -INFO - Create new account bttn clicked successfully
+2023-07-12 18:33:41,060 - logger_file -INFO - User information was entered successfully
+2023-07-12 18:33:41,111 - logger_file -INFO - Signup button was clicked sucessfully
+2023-07-12 18:33:41,480 - logger_file -INFO - User account is created successfully
+2023-07-12 18:42:39,909 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-12 18:42:39,980 - logger_file -INFO - Create new account bttn clicked successfully
+2023-07-12 18:42:40,274 - logger_file -INFO - User information was entered successfully
+2023-07-12 18:42:40,339 - logger_file -INFO - Signup button was clicked sucessfully
+2023-07-12 18:42:48,446 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-12 18:42:48,502 - logger_file -INFO - Create new account bttn clicked successfully
+2023-07-12 18:42:48,794 - logger_file -INFO - User information was entered successfully
+2023-07-12 18:42:48,851 - logger_file -INFO - Signup button was clicked sucessfully
+2023-07-12 18:42:52,140 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-12 18:42:52,196 - logger_file -INFO - Create new account bttn clicked successfully
+2023-07-12 18:42:52,491 - logger_file -INFO - User information was entered successfully
+2023-07-12 18:42:52,546 - logger_file -INFO - Signup button was clicked sucessfully
+2023-07-12 18:46:16,894 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-12 18:46:16,964 - logger_file -INFO - Create new account bttn clicked successfully
+2023-07-12 18:46:17,248 - logger_file -INFO - User information was entered successfully
+2023-07-12 18:46:17,302 - logger_file -INFO - Signup button was clicked sucessfully
+2023-07-12 18:46:20,775 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-12 18:46:20,833 - logger_file -INFO - Create new account bttn clicked successfully
+2023-07-12 18:46:21,124 - logger_file -INFO - User information was entered successfully
+2023-07-12 18:46:21,177 - logger_file -INFO - Signup button was clicked sucessfully
+2023-07-12 18:47:25,445 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-12 18:47:25,499 - logger_file -INFO - Create new account bttn clicked successfully
+2023-07-12 18:47:25,779 - logger_file -INFO - User information was entered successfully
+2023-07-12 18:47:25,829 - logger_file -INFO - Signup button was clicked sucessfully
+2023-07-13 11:30:43,518 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-13 11:30:43,583 - logger_file -INFO - Create new account bttn clicked successfully
+2023-07-13 11:30:43,867 - logger_file -INFO - User information was entered successfully
+2023-07-13 11:30:43,924 - logger_file -INFO - Signup button was clicked sucessfully
+2023-07-13 17:02:02,028 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-13 17:02:02,098 - logger_file -INFO - Create new account bttn clicked successfully
+2023-07-13 17:02:02,387 - logger_file -INFO - User information was entered successfully
+2023-07-13 17:02:02,441 - logger_file -INFO - Signup button was clicked sucessfully
+2023-07-13 17:02:22,383 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-13 17:02:22,445 - logger_file -INFO - Create new account bttn clicked successfully
+2023-07-13 17:02:22,734 - logger_file -INFO - User information was entered successfully
+2023-07-13 17:02:22,785 - logger_file -INFO - Signup button was clicked sucessfully
+2023-07-14 11:11:55,276 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-14 11:11:55,341 - logger_file -INFO - Create new account bttn clicked successfully
+2023-07-14 11:11:55,622 - logger_file -INFO - User information was entered successfully
+2023-07-14 11:11:55,675 - logger_file -INFO - Signup button was clicked sucessfully
+2023-07-14 11:12:57,941 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-14 11:12:57,996 - logger_file -INFO - Create new account bttn clicked successfully
+2023-07-14 11:12:58,275 - logger_file -INFO - User information was entered successfully
+2023-07-14 11:12:58,326 - logger_file -INFO - Signup button was clicked sucessfully
+2023-07-14 11:13:09,686 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-14 11:13:09,740 - logger_file -INFO - Create new account bttn clicked successfully
+2023-07-14 11:13:10,025 - logger_file -INFO - User information was entered successfully
+2023-07-14 11:13:10,076 - logger_file -INFO - Signup button was clicked sucessfully
+2023-07-14 14:41:53,285 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-14 14:41:53,443 - logger_file -INFO - Email and Password were entered successfully
+2023-07-14 14:41:53,499 - logger_file -INFO - Login button was clicked successfully
+2023-07-14 14:41:53,842 - logger_file -INFO - User is logged in successfully
+2023-07-15 14:06:05,005 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-15 14:06:05,171 - logger_file -INFO - Email and Password were entered successfully
+2023-07-15 14:06:05,226 - logger_file -INFO - Login button was clicked successfully
+2023-07-15 14:06:05,648 - logger_file -INFO - User is logged in successfully
+2023-07-15 14:08:06,370 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-15 14:08:06,530 - logger_file -INFO - Email and Password were entered successfully
+2023-07-15 14:08:06,612 - logger_file -INFO - Login button was clicked successfully
+2023-07-15 14:08:07,000 - logger_file -INFO - User is logged in successfully
+2023-07-15 14:08:53,814 - logger_file -INFO - User is on the retail home page
+2023-07-15 16:50:27,765 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-15 16:50:27,924 - logger_file -INFO - Email and Password were entered successfully
+2023-07-15 16:50:27,978 - logger_file -INFO - Login button was clicked successfully
+2023-07-15 16:50:28,326 - logger_file -INFO - User is logged in successfully
+2023-07-16 13:30:18,039 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-16 13:30:18,198 - logger_file -INFO - Email and Password were entered successfully
+2023-07-16 13:30:18,251 - logger_file -INFO - Login button was clicked successfully
+2023-07-16 13:30:18,593 - logger_file -INFO - User is logged in successfully
+2023-07-16 13:30:20,669 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-16 13:30:20,727 - logger_file -INFO - Create new account bttn clicked successfully
+2023-07-16 13:30:21,010 - logger_file -INFO - User information was entered successfully
+2023-07-16 13:30:21,062 - logger_file -INFO - Signup button was clicked sucessfully
+2023-07-16 17:28:30,411 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-16 17:28:30,580 - logger_file -INFO - Email and Password were entered successfully
+2023-07-16 17:28:30,637 - logger_file -INFO - Login button was clicked successfully
+2023-07-16 17:28:30,992 - logger_file -INFO - User is logged in successfully
+2023-07-16 17:28:33,233 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-16 17:28:33,308 - logger_file -INFO - Create new account bttn clicked successfully
+2023-07-16 17:28:33,598 - logger_file -INFO - User information was entered successfully
+2023-07-16 17:28:33,653 - logger_file -INFO - Signup button was clicked sucessfully
+2023-07-17 16:58:57,781 - logger_file -INFO - all options dropdown was clicked
+2023-07-17 17:00:13,290 - logger_file -INFO - all options dropdown was clicked
+2023-07-17 17:00:13,433 - logger_file -INFO - OptionElectronicsis displayed
+2023-07-17 17:00:13,449 - logger_file -INFO - OptionComputersis displayed
+2023-07-17 17:00:13,466 - logger_file -INFO - OptionSmart Homeis displayed
+2023-07-17 17:00:13,485 - logger_file -INFO - OptionSportsis displayed
+2023-07-17 17:00:13,500 - logger_file -INFO - OptionAutomativeis displayed
+2023-07-17 17:36:10,933 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-17 17:36:11,097 - logger_file -INFO - Email and Password were entered successfully
+2023-07-17 17:36:11,153 - logger_file -INFO - Login button was clicked successfully
+2023-07-17 17:36:11,606 - logger_file -INFO - User is logged in successfully
+2023-07-17 17:39:22,802 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-17 17:39:22,966 - logger_file -INFO - Email and Password were entered successfully
+2023-07-17 17:39:23,025 - logger_file -INFO - Login button was clicked successfully
+2023-07-17 17:39:23,530 - logger_file -INFO - User is logged in successfully
+2023-07-17 17:44:33,198 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-17 17:44:33,358 - logger_file -INFO - Email and Password were entered successfully
+2023-07-17 17:44:33,414 - logger_file -INFO - Login button was clicked successfully
+2023-07-17 17:44:33,810 - logger_file -INFO - User is logged in successfully
+2023-07-17 17:45:44,411 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-17 17:45:44,570 - logger_file -INFO - Email and Password were entered successfully
+2023-07-17 17:45:44,626 - logger_file -INFO - Login button was clicked successfully
+2023-07-17 17:45:45,025 - logger_file -INFO - User is logged in successfully
+2023-07-17 17:47:13,219 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-17 17:47:13,385 - logger_file -INFO - Email and Password were entered successfully
+2023-07-17 17:47:13,440 - logger_file -INFO - Login button was clicked successfully
+2023-07-17 17:47:13,836 - logger_file -INFO - User is logged in successfully
+2023-07-17 17:48:37,774 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-17 17:48:37,933 - logger_file -INFO - Email and Password were entered successfully
+2023-07-17 17:48:37,990 - logger_file -INFO - Login button was clicked successfully
+2023-07-17 17:48:38,352 - logger_file -INFO - User is logged in successfully
+2023-07-17 17:51:53,690 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-17 17:51:53,855 - logger_file -INFO - Email and Password were entered successfully
+2023-07-17 17:51:53,913 - logger_file -INFO - Login button was clicked successfully
+2023-07-17 17:51:54,311 - logger_file -INFO - User is logged in successfully
+2023-07-17 17:51:54,392 - logger_file -INFO - Account link was clicked successfully
+2023-07-17 17:51:54,514 - logger_file -INFO - Name was entered successfully
+2023-07-17 17:51:54,623 - logger_file -INFO - Phone Number was entered successfully
+2023-07-17 17:51:54,683 - logger_file -INFO - Update button was clicked successfully
+2023-07-17 17:52:19,398 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-17 17:52:19,567 - logger_file -INFO - Email and Password were entered successfully
+2023-07-17 17:52:19,624 - logger_file -INFO - Login button was clicked successfully
+2023-07-17 17:52:20,130 - logger_file -INFO - User is logged in successfully
+2023-07-17 17:52:20,213 - logger_file -INFO - Account link was clicked successfully
+2023-07-17 17:52:20,327 - logger_file -INFO - Name was entered successfully
+2023-07-17 17:52:20,436 - logger_file -INFO - Phone Number was entered successfully
+2023-07-17 17:52:20,495 - logger_file -INFO - Update button was clicked successfully
+2023-07-17 17:52:21,377 - logger_file -INFO - Account information was updated successfully
+2023-07-18 19:59:22,802 - logger_file -INFO - all options dropdown was clicked
+2023-07-18 19:59:55,801 - logger_file -INFO - all options dropdown was clicked
+2023-07-18 20:09:35,542 - logger_file -INFO - all options dropdown was clicked
+2023-07-18 21:16:38,178 - logger_file -INFO - All options dropdown was clicked!
+2023-07-18 21:16:38,426 - logger_file -INFO - OptionsElectronicsis displayed
+2023-07-18 21:16:38,442 - logger_file -INFO - OptionsComputersis displayed
+2023-07-18 21:16:38,459 - logger_file -INFO - OptionsSmart Homeis displayed
+2023-07-18 21:16:38,475 - logger_file -INFO - OptionsSportsis displayed
+2023-07-18 21:16:38,491 - logger_file -INFO - OptionsAutomativeis displayed
+2023-07-18 22:51:59,080 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-18 22:51:59,241 - logger_file -INFO - Email and Password were entered successfully
+2023-07-18 22:51:59,301 - logger_file -INFO - Login button was clicked successfully
+2023-07-18 22:51:59,641 - logger_file -INFO - User is logged in successfully
+2023-07-18 22:51:59,724 - logger_file -INFO - account link was clicked
+2023-07-18 22:51:59,837 - logger_file -INFO - name was entered
+2023-07-18 22:51:59,966 - logger_file -INFO - phone Field was filled
+2023-07-18 22:52:00,035 - logger_file -INFO - update button was clicked
+2023-07-18 22:52:28,830 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-18 22:52:28,988 - logger_file -INFO - Email and Password were entered successfully
+2023-07-18 22:52:29,044 - logger_file -INFO - Login button was clicked successfully
+2023-07-18 22:52:29,385 - logger_file -INFO - User is logged in successfully
+2023-07-18 22:52:29,477 - logger_file -INFO - account link was clicked
+2023-07-18 22:52:29,586 - logger_file -INFO - name was entered
+2023-07-18 22:52:29,696 - logger_file -INFO - phone Field was filled
+2023-07-18 22:52:29,753 - logger_file -INFO - update button was clicked
+2023-07-18 22:52:30,584 - logger_file -INFO - the account information was updated
+2023-07-19 09:58:05,505 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-19 09:58:05,668 - logger_file -INFO - Email and Password were entered successfully
+2023-07-19 09:58:05,727 - logger_file -INFO - Login button was clicked successfully
+2023-07-19 09:58:06,118 - logger_file -INFO - User is logged in successfully
+2023-07-19 09:58:06,202 - logger_file -INFO - account link was clicked
+2023-07-19 11:11:55,222 - logger_file -INFO - All options dropdown was clicked!
+2023-07-19 11:11:55,408 - logger_file -INFO - OptionsElectronicsis displayed
+2023-07-19 11:11:55,425 - logger_file -INFO - OptionsComputersis displayed
+2023-07-19 11:11:55,442 - logger_file -INFO - OptionsSmart Homeis displayed
+2023-07-19 11:11:55,460 - logger_file -INFO - OptionsSportsis displayed
+2023-07-19 11:11:55,477 - logger_file -INFO - OptionsAutomativeis displayed
+2023-07-19 11:15:20,312 - logger_file -INFO - All options dropdown was clicked!
+2023-07-19 11:15:20,666 - logger_file -INFO - OptionsElectronicsis displayed
+2023-07-19 11:15:20,686 - logger_file -INFO - OptionsComputersis displayed
+2023-07-19 11:15:20,701 - logger_file -INFO - OptionsSmart Homeis displayed
+2023-07-19 11:15:20,717 - logger_file -INFO - OptionsSportsis displayed
+2023-07-19 11:15:20,733 - logger_file -INFO - OptionsAutomativeis displayed
+2023-07-19 11:15:47,001 - logger_file -INFO - All options dropdown was clicked!
+2023-07-19 11:15:47,079 - logger_file -INFO - OptionsElectronicsis displayed
+2023-07-19 11:15:47,110 - logger_file -INFO - OptionsComputersis displayed
+2023-07-19 11:15:47,135 - logger_file -INFO - OptionsSmart Homeis displayed
+2023-07-19 11:15:47,154 - logger_file -INFO - OptionsSportsis displayed
+2023-07-19 11:15:47,171 - logger_file -INFO - OptionsAutomativeis displayed
+2023-07-19 11:18:55,254 - logger_file -INFO - All options dropdown was clicked!
+2023-07-19 11:18:55,389 - logger_file -INFO - OptionsElectronicsis displayed
+2023-07-19 11:18:55,418 - logger_file -INFO - OptionsComputersis displayed
+2023-07-19 11:18:55,435 - logger_file -INFO - OptionsSmart Homeis displayed
+2023-07-19 11:18:55,452 - logger_file -INFO - OptionsSportsis displayed
+2023-07-19 11:18:55,468 - logger_file -INFO - OptionsAutomativeis displayed
+2023-07-19 11:35:08,766 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-19 11:35:08,937 - logger_file -INFO - Email and Password were entered successfully
+2023-07-19 11:35:08,993 - logger_file -INFO - Login button was clicked successfully
+2023-07-19 11:35:09,331 - logger_file -INFO - User is logged in successfully
+2023-07-19 11:35:09,419 - logger_file -INFO - account link was clicked
+2023-07-19 11:35:09,499 - logger_file -INFO - the payment method button was clicked
+2023-07-19 11:35:09,841 - logger_file -INFO - paymentInformation was entred successfully
+2023-07-19 11:35:09,897 - logger_file -INFO - payment button was clicked
+2023-07-19 11:54:42,172 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-19 11:54:42,330 - logger_file -INFO - Email and Password were entered successfully
+2023-07-19 11:54:42,388 - logger_file -INFO - Login button was clicked successfully
+2023-07-19 11:54:42,781 - logger_file -INFO - User is logged in successfully
+2023-07-19 11:54:42,866 - logger_file -INFO - account link was clicked
+2023-07-19 11:54:42,925 - logger_file -INFO - the payment method button was clicked
+2023-07-19 11:54:43,250 - logger_file -INFO - paymentInformation was entred successfully
+2023-07-19 11:54:43,307 - logger_file -INFO - payment button was clicked
+2023-07-19 11:57:13,088 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-19 11:57:13,246 - logger_file -INFO - Email and Password were entered successfully
+2023-07-19 11:57:13,303 - logger_file -INFO - Login button was clicked successfully
+2023-07-19 11:57:13,673 - logger_file -INFO - User is logged in successfully
+2023-07-19 11:57:13,757 - logger_file -INFO - account link was clicked
+2023-07-19 11:57:13,821 - logger_file -INFO - the payment method button was clicked
+2023-07-19 11:57:14,148 - logger_file -INFO - paymentInformation was entred successfully
+2023-07-19 11:57:14,201 - logger_file -INFO - payment button was clicked
+2023-07-19 11:57:33,702 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-19 11:57:33,860 - logger_file -INFO - Email and Password were entered successfully
+2023-07-19 11:57:33,918 - logger_file -INFO - Login button was clicked successfully
+2023-07-19 11:57:34,270 - logger_file -INFO - User is logged in successfully
+2023-07-19 11:57:34,355 - logger_file -INFO - account link was clicked
+2023-07-19 11:57:34,412 - logger_file -INFO - the payment method button was clicked
+2023-07-19 11:57:34,744 - logger_file -INFO - paymentInformation was entred successfully
+2023-07-19 11:57:34,798 - logger_file -INFO - payment button was clicked
+2023-07-19 12:00:03,662 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-19 12:00:03,824 - logger_file -INFO - Email and Password were entered successfully
+2023-07-19 12:00:03,883 - logger_file -INFO - Login button was clicked successfully
+2023-07-19 12:00:04,222 - logger_file -INFO - User is logged in successfully
+2023-07-19 12:00:04,313 - logger_file -INFO - account link was clicked
+2023-07-19 12:00:04,375 - logger_file -INFO - the payment method button was clicked
+2023-07-19 12:00:04,702 - logger_file -INFO - paymentInformation was entred successfully
+2023-07-19 12:00:04,754 - logger_file -INFO - payment button was clicked
+2023-07-19 12:00:24,685 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-19 12:00:24,852 - logger_file -INFO - Email and Password were entered successfully
+2023-07-19 12:00:24,920 - logger_file -INFO - Login button was clicked successfully
+2023-07-19 12:00:25,265 - logger_file -INFO - User is logged in successfully
+2023-07-19 12:00:25,350 - logger_file -INFO - account link was clicked
+2023-07-19 12:00:25,411 - logger_file -INFO - the payment method button was clicked
+2023-07-19 12:00:25,751 - logger_file -INFO - paymentInformation was entred successfully
+2023-07-19 12:00:25,804 - logger_file -INFO - payment button was clicked
+2023-07-19 12:03:34,871 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-19 12:03:35,024 - logger_file -INFO - Email and Password were entered successfully
+2023-07-19 12:03:35,083 - logger_file -INFO - Login button was clicked successfully
+2023-07-19 12:03:35,429 - logger_file -INFO - User is logged in successfully
+2023-07-19 12:03:35,517 - logger_file -INFO - account link was clicked
+2023-07-19 12:03:35,575 - logger_file -INFO - the payment method button was clicked
+2023-07-19 12:03:35,887 - logger_file -INFO - paymentInformation was entred successfully
+2023-07-19 12:03:35,939 - logger_file -INFO - payment button was clicked
+2023-07-19 13:38:09,349 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-19 13:38:09,512 - logger_file -INFO - Email and Password were entered successfully
+2023-07-19 13:38:09,564 - logger_file -INFO - Login button was clicked successfully
+2023-07-19 13:38:11,190 - logger_file -INFO - User is logged in successfully
+2023-07-19 13:38:11,283 - logger_file -INFO - account link was clicked
+2023-07-19 13:38:11,354 - logger_file -INFO - the address button was clicked
+2023-07-19 13:38:11,918 - logger_file -INFO - Address updated successfully
+2023-07-19 13:38:11,971 - logger_file -INFO - the address button was clicked
+2023-07-19 13:43:52,560 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-19 13:43:52,724 - logger_file -INFO - Email and Password were entered successfully
+2023-07-19 13:43:52,779 - logger_file -INFO - Login button was clicked successfully
+2023-07-19 13:43:53,123 - logger_file -INFO - User is logged in successfully
+2023-07-19 13:43:53,208 - logger_file -INFO - account link was clicked
+2023-07-19 13:43:53,283 - logger_file -INFO - the address button was clicked
+2023-07-19 13:43:54,055 - logger_file -INFO - Address updated successfully
+2023-07-19 13:43:54,127 - logger_file -INFO - the address button was clicked
+2023-07-19 13:43:54,906 - logger_file -INFO - Expected Message: Address Added Successfully
+2023-07-19 21:09:22,769 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-19 21:09:22,926 - logger_file -INFO - Email and Password were entered successfully
+2023-07-19 21:09:22,981 - logger_file -INFO - Login button was clicked successfully
+2023-07-19 21:11:40,314 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-19 21:11:40,456 - logger_file -INFO - Email and Password were entered successfully
+2023-07-19 21:11:40,510 - logger_file -INFO - Login button was clicked successfully
+2023-07-19 21:11:40,868 - logger_file -INFO - User is logged in successfully
+2023-07-19 21:11:40,954 - logger_file -INFO - account link was clicked
+2023-07-19 21:11:41,025 - logger_file -INFO - the address button was clicked
+2023-07-19 21:11:41,740 - logger_file -INFO - Address updated successfully
+2023-07-19 21:11:41,812 - logger_file -INFO - the address button was clicked
+2023-07-19 21:12:11,862 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-19 21:12:12,006 - logger_file -INFO - Email and Password were entered successfully
+2023-07-19 21:12:12,061 - logger_file -INFO - Login button was clicked successfully
+2023-07-19 21:12:12,612 - logger_file -INFO - User is logged in successfully
+2023-07-19 21:12:12,697 - logger_file -INFO - account link was clicked
+2023-07-19 21:12:12,770 - logger_file -INFO - the address button was clicked
+2023-07-19 21:12:13,487 - logger_file -INFO - Address updated successfully
+2023-07-19 21:12:13,556 - logger_file -INFO - the address button was clicked
+2023-07-19 21:12:14,299 - logger_file -INFO - Expected Message: Address Added Successfully
+2023-07-19 21:19:27,452 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-19 21:19:27,593 - logger_file -INFO - Email and Password were entered successfully
+2023-07-19 21:19:27,646 - logger_file -INFO - Login button was clicked successfully
+2023-07-19 21:19:27,994 - logger_file -INFO - User is logged in successfully
+2023-07-19 21:19:28,083 - logger_file -INFO - account link was clicked
+2023-07-19 21:19:28,159 - logger_file -INFO - the address button was clicked
+2023-07-19 21:19:28,870 - logger_file -INFO - Address updated successfully
+2023-07-19 21:19:28,940 - logger_file -INFO - the address button was clicked
+2023-07-19 21:19:29,742 - logger_file -INFO - Expected Message: Address Added Successfully
+2023-07-19 21:20:20,497 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-19 21:20:20,636 - logger_file -INFO - Email and Password were entered successfully
+2023-07-19 21:20:20,693 - logger_file -INFO - Login button was clicked successfully
+2023-07-19 21:20:21,042 - logger_file -INFO - User is logged in successfully
+2023-07-19 21:20:21,128 - logger_file -INFO - account link was clicked
+2023-07-19 21:20:21,189 - logger_file -INFO - the payment method button was clicked
+2023-07-19 21:20:21,519 - logger_file -INFO - paymentInformation was entred successfully
+2023-07-19 21:20:21,572 - logger_file -INFO - payment button was clicked
+2023-07-19 21:21:16,218 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-19 21:21:16,365 - logger_file -INFO - Email and Password were entered successfully
+2023-07-19 21:21:16,419 - logger_file -INFO - Login button was clicked successfully
+2023-07-19 21:21:16,774 - logger_file -INFO - User is logged in successfully
+2023-07-19 21:21:16,861 - logger_file -INFO - account link was clicked
+2023-07-19 21:21:16,921 - logger_file -INFO - the payment method button was clicked
+2023-07-19 21:21:17,246 - logger_file -INFO - paymentInformation was entred successfully
+2023-07-19 21:21:17,303 - logger_file -INFO - payment button was clicked
+2023-07-19 21:27:26,518 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-19 21:27:26,659 - logger_file -INFO - Email and Password were entered successfully
+2023-07-19 21:27:26,714 - logger_file -INFO - Login button was clicked successfully
+2023-07-19 21:27:27,191 - logger_file -INFO - User is logged in successfully
+2023-07-19 21:27:27,276 - logger_file -INFO - account link was clicked
+2023-07-19 21:27:27,342 - logger_file -INFO - the payment method button was clicked
+2023-07-19 21:27:27,658 - logger_file -INFO - paymentInformation was entred successfully
+2023-07-19 21:27:27,708 - logger_file -INFO - payment button was clicked
+2023-07-19 21:27:51,846 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-19 21:27:51,987 - logger_file -INFO - Email and Password were entered successfully
+2023-07-19 21:27:52,042 - logger_file -INFO - Login button was clicked successfully
+2023-07-19 21:27:52,462 - logger_file -INFO - User is logged in successfully
+2023-07-19 21:27:52,548 - logger_file -INFO - account link was clicked
+2023-07-19 21:27:52,658 - logger_file -INFO - name was entered
+2023-07-19 21:27:52,764 - logger_file -INFO - phone Field was filled
+2023-07-19 21:27:52,830 - logger_file -INFO - update button was clicked
+2023-07-19 21:27:53,705 - logger_file -INFO - the account information was updated
+2023-07-19 21:27:55,769 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-19 21:27:55,906 - logger_file -INFO - Email and Password were entered successfully
+2023-07-19 21:27:55,959 - logger_file -INFO - Login button was clicked successfully
+2023-07-19 21:27:56,346 - logger_file -INFO - User is logged in successfully
+2023-07-19 21:27:56,428 - logger_file -INFO - account link was clicked
+2023-07-19 21:27:56,484 - logger_file -INFO - the payment method button was clicked
+2023-07-19 21:27:56,816 - logger_file -INFO - paymentInformation was entred successfully
+2023-07-19 21:27:56,867 - logger_file -INFO - payment button was clicked
+2023-07-19 21:28:09,457 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-19 21:28:09,586 - logger_file -INFO - Email and Password were entered successfully
+2023-07-19 21:28:09,634 - logger_file -INFO - Login button was clicked successfully
+2023-07-19 21:28:09,975 - logger_file -INFO - User is logged in successfully
+2023-07-19 21:28:10,057 - logger_file -INFO - account link was clicked
+2023-07-19 21:28:10,131 - logger_file -INFO - the address button was clicked
+2023-07-19 21:28:10,862 - logger_file -INFO - Address updated successfully
+2023-07-19 21:28:10,930 - logger_file -INFO - the address button was clicked
+2023-07-19 21:28:11,704 - logger_file -INFO - Expected Message: Address Added Successfully
+2023-07-19 21:28:26,688 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-19 21:28:26,832 - logger_file -INFO - Email and Password were entered successfully
+2023-07-19 21:28:26,885 - logger_file -INFO - Login button was clicked successfully
+2023-07-19 21:28:27,237 - logger_file -INFO - User is logged in successfully
+2023-07-19 21:28:27,322 - logger_file -INFO - account link was clicked
+2023-07-19 21:28:27,385 - logger_file -INFO - the payment method button was clicked
+2023-07-19 21:28:27,737 - logger_file -INFO - paymentInformation was entred successfully
+2023-07-19 21:28:27,795 - logger_file -INFO - payment button was clicked
+2023-07-19 21:28:46,414 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-19 21:28:46,554 - logger_file -INFO - Email and Password were entered successfully
+2023-07-19 21:28:46,608 - logger_file -INFO - Login button was clicked successfully
+2023-07-19 21:28:46,962 - logger_file -INFO - User is logged in successfully
+2023-07-19 21:28:47,045 - logger_file -INFO - account link was clicked
+2023-07-19 21:28:47,109 - logger_file -INFO - the payment method button was clicked
+2023-07-19 21:28:47,443 - logger_file -INFO - paymentInformation was entred successfully
+2023-07-19 21:28:47,497 - logger_file -INFO - payment button was clicked
+2023-07-19 21:29:03,904 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-19 21:29:04,045 - logger_file -INFO - Email and Password were entered successfully
+2023-07-19 21:29:04,099 - logger_file -INFO - Login button was clicked successfully
+2023-07-19 21:29:04,447 - logger_file -INFO - User is logged in successfully
+2023-07-19 21:29:04,534 - logger_file -INFO - account link was clicked
+2023-07-19 21:29:04,596 - logger_file -INFO - the payment method button was clicked
+2023-07-19 21:29:04,935 - logger_file -INFO - paymentInformation was entred successfully
+2023-07-19 21:29:04,990 - logger_file -INFO - payment button was clicked
+2023-07-19 21:31:06,743 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-19 21:31:06,883 - logger_file -INFO - Email and Password were entered successfully
+2023-07-19 21:31:06,940 - logger_file -INFO - Login button was clicked successfully
+2023-07-19 21:31:07,296 - logger_file -INFO - User is logged in successfully
+2023-07-19 21:31:07,384 - logger_file -INFO - account link was clicked
+2023-07-19 21:31:07,443 - logger_file -INFO - the payment method button was clicked
+2023-07-19 21:31:07,771 - logger_file -INFO - paymentInformation was entred successfully
+2023-07-19 21:31:07,830 - logger_file -INFO - payment button was clicked
+2023-07-19 21:31:26,808 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-19 21:31:26,949 - logger_file -INFO - Email and Password were entered successfully
+2023-07-19 21:31:27,002 - logger_file -INFO - Login button was clicked successfully
+2023-07-19 21:31:27,443 - logger_file -INFO - User is logged in successfully
+2023-07-19 21:31:27,528 - logger_file -INFO - account link was clicked
+2023-07-19 21:31:27,587 - logger_file -INFO - the payment method button was clicked
+2023-07-19 21:31:27,921 - logger_file -INFO - paymentInformation was entred successfully
+2023-07-19 21:31:27,978 - logger_file -INFO - payment button was clicked
+2023-07-19 21:32:08,195 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-19 21:32:08,336 - logger_file -INFO - Email and Password were entered successfully
+2023-07-19 21:32:08,392 - logger_file -INFO - Login button was clicked successfully
+2023-07-19 21:32:08,865 - logger_file -INFO - User is logged in successfully
+2023-07-19 21:32:08,949 - logger_file -INFO - account link was clicked
+2023-07-19 21:32:09,010 - logger_file -INFO - the payment method button was clicked
+2023-07-19 21:32:09,336 - logger_file -INFO - paymentInformation was entred successfully
+2023-07-19 21:32:09,398 - logger_file -INFO - payment button was clicked
+2023-07-19 21:34:34,879 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-19 21:34:35,025 - logger_file -INFO - Email and Password were entered successfully
+2023-07-19 21:34:35,083 - logger_file -INFO - Login button was clicked successfully
+2023-07-19 21:34:35,492 - logger_file -INFO - User is logged in successfully
+2023-07-19 21:34:35,575 - logger_file -INFO - account link was clicked
+2023-07-19 21:34:35,633 - logger_file -INFO - the payment method button was clicked
+2023-07-19 21:34:35,979 - logger_file -INFO - paymentInformation was entred successfully
+2023-07-19 21:34:36,035 - logger_file -INFO - payment button was clicked
+2023-07-19 21:34:54,237 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-19 21:34:54,379 - logger_file -INFO - Email and Password were entered successfully
+2023-07-19 21:34:54,433 - logger_file -INFO - Login button was clicked successfully
+2023-07-19 21:34:54,792 - logger_file -INFO - User is logged in successfully
+2023-07-19 21:34:54,877 - logger_file -INFO - account link was clicked
+2023-07-19 21:34:54,937 - logger_file -INFO - the payment method button was clicked
+2023-07-19 21:34:55,264 - logger_file -INFO - paymentInformation was entred successfully
+2023-07-19 21:34:55,320 - logger_file -INFO - payment button was clicked
+2023-07-19 21:37:20,995 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-19 21:37:21,137 - logger_file -INFO - Email and Password were entered successfully
+2023-07-19 21:37:21,193 - logger_file -INFO - Login button was clicked successfully
+2023-07-19 21:37:21,663 - logger_file -INFO - User is logged in successfully
+2023-07-19 21:37:21,748 - logger_file -INFO - account link was clicked
+2023-07-19 21:37:21,808 - logger_file -INFO - the payment method button was clicked
+2023-07-19 21:37:22,126 - logger_file -INFO - paymentInformation was entred successfully
+2023-07-19 21:37:22,182 - logger_file -INFO - payment button was clicked
+2023-07-19 21:37:37,290 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-19 21:37:37,434 - logger_file -INFO - Email and Password were entered successfully
+2023-07-19 21:37:37,488 - logger_file -INFO - Login button was clicked successfully
+2023-07-19 21:37:37,857 - logger_file -INFO - User is logged in successfully
+2023-07-19 21:37:37,943 - logger_file -INFO - account link was clicked
+2023-07-19 21:37:38,004 - logger_file -INFO - the payment method button was clicked
+2023-07-19 21:37:38,339 - logger_file -INFO - paymentInformation was entred successfully
+2023-07-19 21:37:38,399 - logger_file -INFO - payment button was clicked
+2023-07-19 21:37:39,210 - logger_file -INFO - Expected Msg: Payment Method added sucessfully
+2023-07-19 21:38:40,004 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-19 21:38:40,146 - logger_file -INFO - Email and Password were entered successfully
+2023-07-19 21:38:40,201 - logger_file -INFO - Login button was clicked successfully
+2023-07-19 21:38:40,601 - logger_file -INFO - User is logged in successfully
+2023-07-19 21:38:40,689 - logger_file -INFO - account link was clicked
+2023-07-19 21:38:40,746 - logger_file -INFO - the payment method button was clicked
+2023-07-19 21:38:41,073 - logger_file -INFO - paymentInformation was entred successfully
+2023-07-19 21:38:41,133 - logger_file -INFO - payment button was clicked
+2023-07-19 21:38:41,969 - logger_file -INFO - Expected Msg: Payment Method added sucessfully
+2023-07-19 21:39:16,793 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-19 21:39:16,934 - logger_file -INFO - Email and Password were entered successfully
+2023-07-19 21:39:16,988 - logger_file -INFO - Login button was clicked successfully
+2023-07-19 21:39:17,369 - logger_file -INFO - User is logged in successfully
+2023-07-19 21:39:17,458 - logger_file -INFO - account link was clicked
+2023-07-19 21:39:17,516 - logger_file -INFO - the payment method button was clicked
+2023-07-19 21:39:17,854 - logger_file -INFO - paymentInformation was entred successfully
+2023-07-19 21:39:17,911 - logger_file -INFO - payment button was clicked
+2023-07-19 21:39:18,717 - logger_file -INFO - Expected Msg: Payment Method added sucessfully
+2023-07-19 21:42:45,542 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-19 21:42:45,700 - logger_file -INFO - Email and Password were entered successfully
+2023-07-19 21:42:45,760 - logger_file -INFO - Login button was clicked successfully
+2023-07-19 21:42:46,438 - logger_file -INFO - User is logged in successfully
+2023-07-19 21:42:46,543 - logger_file -INFO - account link was clicked
+2023-07-19 21:42:46,601 - logger_file -INFO - the payment method button was clicked
+2023-07-19 21:42:46,926 - logger_file -INFO - paymentInformation was entred successfully
+2023-07-19 21:42:46,979 - logger_file -INFO - payment button was clicked
+2023-07-19 21:43:04,051 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-19 21:43:04,194 - logger_file -INFO - Email and Password were entered successfully
+2023-07-19 21:43:04,248 - logger_file -INFO - Login button was clicked successfully
+2023-07-19 21:43:04,592 - logger_file -INFO - User is logged in successfully
+2023-07-19 21:43:04,675 - logger_file -INFO - account link was clicked
+2023-07-19 21:43:04,737 - logger_file -INFO - the payment method button was clicked
+2023-07-19 21:43:05,062 - logger_file -INFO - paymentInformation was entred successfully
+2023-07-19 21:43:05,126 - logger_file -INFO - payment button was clicked
+2023-07-19 21:43:05,963 - logger_file -INFO - Expected Msg: Payment Method added sucessfully
+2023-07-19 21:44:33,710 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-19 21:44:33,851 - logger_file -INFO - Email and Password were entered successfully
+2023-07-19 21:44:33,908 - logger_file -INFO - Login button was clicked successfully
+2023-07-19 21:44:34,275 - logger_file -INFO - User is logged in successfully
+2023-07-19 21:44:34,360 - logger_file -INFO - account link was clicked
+2023-07-19 21:44:34,415 - logger_file -INFO - the payment method button was clicked
+2023-07-19 21:44:34,748 - logger_file -INFO - paymentInformation was entred successfully
+2023-07-19 21:44:34,802 - logger_file -INFO - payment button was clicked
+2023-07-19 21:44:51,619 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-19 21:44:51,761 - logger_file -INFO - Email and Password were entered successfully
+2023-07-19 21:44:51,815 - logger_file -INFO - Login button was clicked successfully
+2023-07-19 21:44:52,170 - logger_file -INFO - User is logged in successfully
+2023-07-19 21:44:52,256 - logger_file -INFO - account link was clicked
+2023-07-19 21:44:52,316 - logger_file -INFO - the payment method button was clicked
+2023-07-19 21:44:52,648 - logger_file -INFO - paymentInformation was entred successfully
+2023-07-19 21:44:52,713 - logger_file -INFO - payment button was clicked
+2023-07-19 21:44:53,520 - logger_file -INFO - Expected Msg: Payment Method added sucessfully
+2023-07-19 21:49:43,748 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-19 21:49:43,891 - logger_file -INFO - Email and Password were entered successfully
+2023-07-19 21:49:43,945 - logger_file -INFO - Login button was clicked successfully
+2023-07-19 21:49:44,303 - logger_file -INFO - User is logged in successfully
+2023-07-19 21:49:44,388 - logger_file -INFO - account link was clicked
+2023-07-19 21:49:44,447 - logger_file -INFO - the payment method button was clicked
+2023-07-19 21:49:44,768 - logger_file -INFO - paymentInformation was entred successfully
+2023-07-19 21:49:44,822 - logger_file -INFO - payment button was clicked
+2023-07-19 21:50:02,609 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-19 21:50:02,750 - logger_file -INFO - Email and Password were entered successfully
+2023-07-19 21:50:02,803 - logger_file -INFO - Login button was clicked successfully
+2023-07-19 21:50:03,148 - logger_file -INFO - User is logged in successfully
+2023-07-19 21:50:03,234 - logger_file -INFO - account link was clicked
+2023-07-19 21:50:03,338 - logger_file -INFO - name was entered
+2023-07-19 21:50:03,449 - logger_file -INFO - phone Field was filled
+2023-07-19 21:50:25,838 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-19 21:50:25,972 - logger_file -INFO - Email and Password were entered successfully
+2023-07-19 21:50:26,022 - logger_file -INFO - Login button was clicked successfully
+2023-07-19 21:50:26,368 - logger_file -INFO - User is logged in successfully
+2023-07-19 21:50:26,457 - logger_file -INFO - account link was clicked
+2023-07-19 21:50:26,537 - logger_file -INFO - the payment method button was clicked
+2023-07-19 21:50:26,610 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-19 21:50:26,774 - logger_file -INFO - Email and Password were entered successfully
+2023-07-19 21:50:26,831 - logger_file -INFO - Login button was clicked successfully
+2023-07-19 21:50:26,894 - logger_file -INFO - paymentInformation was entred successfully
+2023-07-19 21:50:26,956 - logger_file -INFO - payment button was clicked
+2023-07-19 21:50:27,412 - logger_file -INFO - User is logged in successfully
+2023-07-19 21:50:27,496 - logger_file -INFO - account link was clicked
+2023-07-19 21:50:27,557 - logger_file -INFO - the payment method button was clicked
+2023-07-19 21:50:27,914 - logger_file -INFO - paymentInformation was entred successfully
+2023-07-19 21:50:27,944 - logger_file -INFO - Expected Msg: Payment Method added sucessfully
+2023-07-19 21:50:27,969 - logger_file -INFO - payment button was clicked
+2023-07-19 21:51:18,470 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-19 21:51:18,610 - logger_file -INFO - Email and Password were entered successfully
+2023-07-19 21:51:18,667 - logger_file -INFO - Login button was clicked successfully
+2023-07-19 21:51:19,011 - logger_file -INFO - User is logged in successfully
+2023-07-19 21:51:19,098 - logger_file -INFO - account link was clicked
+2023-07-19 21:51:19,166 - logger_file -INFO - the payment method button was clicked
+2023-07-19 21:51:19,499 - logger_file -INFO - paymentInformation was entred successfully
+2023-07-19 21:51:19,551 - logger_file -INFO - payment button was clicked
+2023-07-19 21:51:43,124 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-19 21:51:43,270 - logger_file -INFO - Email and Password were entered successfully
+2023-07-19 21:51:43,323 - logger_file -INFO - Login button was clicked successfully
+2023-07-19 21:51:43,670 - logger_file -INFO - User is logged in successfully
+2023-07-19 21:51:43,753 - logger_file -INFO - account link was clicked
+2023-07-19 21:51:43,816 - logger_file -INFO - the payment method button was clicked
+2023-07-19 21:51:44,145 - logger_file -INFO - paymentInformation was entred successfully
+2023-07-19 21:51:44,206 - logger_file -INFO - payment button was clicked
+2023-07-19 21:51:44,950 - logger_file -INFO - Expected Msg: Payment Method added sucessfully
+2023-07-19 21:52:54,871 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-19 21:52:55,014 - logger_file -INFO - Email and Password were entered successfully
+2023-07-19 21:52:55,069 - logger_file -INFO - Login button was clicked successfully
+2023-07-19 21:52:55,437 - logger_file -INFO - User is logged in successfully
+2023-07-19 21:52:55,520 - logger_file -INFO - account link was clicked
+2023-07-19 21:52:55,624 - logger_file -INFO - name was entered
+2023-07-19 21:52:55,737 - logger_file -INFO - phone Field was filled
+2023-07-19 21:53:34,925 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-19 21:53:35,066 - logger_file -INFO - Email and Password were entered successfully
+2023-07-19 21:53:35,121 - logger_file -INFO - Login button was clicked successfully
+2023-07-19 21:53:35,522 - logger_file -INFO - User is logged in successfully
+2023-07-19 21:53:35,609 - logger_file -INFO - account link was clicked
+2023-07-19 21:53:35,718 - logger_file -INFO - name was entered
+2023-07-19 21:53:35,835 - logger_file -INFO - phone Field was filled
+2023-07-19 21:53:35,894 - logger_file -INFO - update button was clicked
+2023-07-19 21:53:53,242 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-19 21:53:53,390 - logger_file -INFO - Email and Password were entered successfully
+2023-07-19 21:53:53,445 - logger_file -INFO - Login button was clicked successfully
+2023-07-19 21:53:53,830 - logger_file -INFO - User is logged in successfully
+2023-07-19 21:53:53,912 - logger_file -INFO - account link was clicked
+2023-07-19 21:53:54,022 - logger_file -INFO - name was entered
+2023-07-19 21:53:54,132 - logger_file -INFO - phone Field was filled
+2023-07-19 21:53:54,193 - logger_file -INFO - update button was clicked
+2023-07-19 21:53:55,271 - logger_file -INFO - the account information was updated
+2023-07-19 21:54:20,213 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-19 21:54:20,356 - logger_file -INFO - Email and Password were entered successfully
+2023-07-19 21:54:20,409 - logger_file -INFO - Login button was clicked successfully
+2023-07-19 21:54:20,802 - logger_file -INFO - User is logged in successfully
+2023-07-19 21:54:20,890 - logger_file -INFO - account link was clicked
+2023-07-19 21:54:20,955 - logger_file -INFO - the payment method button was clicked
+2023-07-19 21:54:21,274 - logger_file -INFO - paymentInformation was entred successfully
+2023-07-19 21:54:21,326 - logger_file -INFO - payment button was clicked
+2023-07-19 21:54:52,809 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-19 21:54:52,951 - logger_file -INFO - Email and Password were entered successfully
+2023-07-19 21:54:53,007 - logger_file -INFO - Login button was clicked successfully
+2023-07-19 21:54:53,359 - logger_file -INFO - User is logged in successfully
+2023-07-19 21:54:53,443 - logger_file -INFO - account link was clicked
+2023-07-19 21:54:53,516 - logger_file -INFO - the address button was clicked
+2023-07-19 21:54:54,323 - logger_file -INFO - Address updated successfully
+2023-07-19 21:54:54,393 - logger_file -INFO - the address button was clicked
+2023-07-19 21:54:55,148 - logger_file -INFO - Expected Message: Address Added Successfully
+2023-07-19 21:57:11,772 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-19 21:57:11,924 - logger_file -INFO - Email and Password were entered successfully
+2023-07-19 21:57:11,987 - logger_file -INFO - Login button was clicked successfully
+2023-07-19 21:57:12,556 - logger_file -INFO - User is logged in successfully
+2023-07-19 21:57:12,651 - logger_file -INFO - account link was clicked
+2023-07-19 21:57:12,722 - logger_file -INFO - the payment method button was clicked
+2023-07-19 21:57:13,105 - logger_file -INFO - paymentInformation was entred successfully
+2023-07-19 21:57:13,165 - logger_file -INFO - payment button was clicked
+2023-07-19 21:57:30,890 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-19 21:57:31,025 - logger_file -INFO - Email and Password were entered successfully
+2023-07-19 21:57:31,079 - logger_file -INFO - Login button was clicked successfully
+2023-07-19 21:57:31,431 - logger_file -INFO - User is logged in successfully
+2023-07-19 21:57:31,519 - logger_file -INFO - account link was clicked
+2023-07-19 21:57:31,628 - logger_file -INFO - name was entered
+2023-07-19 21:57:31,740 - logger_file -INFO - phone Field was filled
+2023-07-19 21:57:44,347 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-19 21:57:44,491 - logger_file -INFO - Email and Password were entered successfully
+2023-07-19 21:57:44,549 - logger_file -INFO - Login button was clicked successfully
+2023-07-19 21:57:44,890 - logger_file -INFO - User is logged in successfully
+2023-07-19 21:57:44,978 - logger_file -INFO - account link was clicked
+2023-07-19 21:57:45,037 - logger_file -INFO - the payment method button was clicked
+2023-07-19 21:57:45,378 - logger_file -INFO - paymentInformation was entred successfully
+2023-07-19 21:57:45,432 - logger_file -INFO - payment button was clicked
+2023-07-19 21:57:46,227 - logger_file -INFO - Expected Msg: Payment Method added sucessfully
+2023-07-19 21:58:12,189 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-19 21:58:12,336 - logger_file -INFO - Email and Password were entered successfully
+2023-07-19 21:58:12,391 - logger_file -INFO - Login button was clicked successfully
+2023-07-19 21:58:12,742 - logger_file -INFO - User is logged in successfully
+2023-07-19 21:58:12,829 - logger_file -INFO - account link was clicked
+2023-07-19 21:58:12,889 - logger_file -INFO - the payment method button was clicked
+2023-07-19 21:58:13,216 - logger_file -INFO - paymentInformation was entred successfully
+2023-07-19 21:58:13,286 - logger_file -INFO - payment button was clicked
+2023-07-19 21:58:14,087 - logger_file -INFO - Expected Msg: Payment Method added sucessfully
+2023-07-19 22:16:55,858 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-19 22:16:56,009 - logger_file -INFO - Email and Password were entered successfully
+2023-07-19 22:16:56,068 - logger_file -INFO - Login button was clicked successfully
+2023-07-19 22:16:56,420 - logger_file -INFO - User is logged in successfully
+2023-07-19 22:16:56,506 - logger_file -INFO - account link was clicked
+2023-07-19 22:16:56,568 - logger_file -INFO - the payment method button was clicked
+2023-07-19 22:16:56,899 - logger_file -INFO - paymentInformation was entred successfully
+2023-07-19 22:16:56,961 - logger_file -INFO - payment button was clicked
+2023-07-19 22:16:57,789 - logger_file -INFO - Expected Msg: Payment Method added sucessfully
+2023-07-19 22:42:20,525 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-19 22:42:20,667 - logger_file -INFO - Email and Password were entered successfully
+2023-07-19 22:42:20,719 - logger_file -INFO - Login button was clicked successfully
+2023-07-19 22:42:21,103 - logger_file -INFO - User is logged in successfully
+2023-07-19 22:42:21,187 - logger_file -INFO - account link was clicked
+2023-07-19 22:42:21,244 - logger_file -INFO - the payment method button was clicked
+2023-07-19 22:42:21,565 - logger_file -INFO - paymentInformation was entred successfully
+2023-07-19 22:42:21,624 - logger_file -INFO - payment button was clicked
+2023-07-19 22:42:42,136 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-19 22:42:42,280 - logger_file -INFO - Email and Password were entered successfully
+2023-07-19 22:42:42,336 - logger_file -INFO - Login button was clicked successfully
+2023-07-19 22:42:42,686 - logger_file -INFO - User is logged in successfully
+2023-07-19 22:42:42,771 - logger_file -INFO - account link was clicked
+2023-07-19 22:42:42,844 - logger_file -INFO - the address button was clicked
+2023-07-19 22:42:43,601 - logger_file -INFO - Address updated successfully
+2023-07-19 22:42:43,671 - logger_file -INFO - the address button was clicked
+2023-07-19 22:42:44,433 - logger_file -INFO - Expected Message: Address Added Successfully
+2023-07-20 10:05:35,469 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-20 10:05:35,623 - logger_file -INFO - Email and Password were entered successfully
+2023-07-20 10:05:35,690 - logger_file -INFO - Login button was clicked successfully
+2023-07-20 10:05:36,059 - logger_file -INFO - User is logged in successfully
+2023-07-20 10:05:36,150 - logger_file -INFO - Category was selected successfully from dropdown
+2023-07-20 10:05:36,218 - logger_file -INFO - item name was entered successfully
+2023-07-20 10:05:36,271 - logger_file -INFO - the search button was clicked successfully
+2023-07-20 10:08:03,413 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-20 10:08:03,558 - logger_file -INFO - Email and Password were entered successfully
+2023-07-20 10:08:03,611 - logger_file -INFO - Login button was clicked successfully
+2023-07-20 10:08:04,014 - logger_file -INFO - User is logged in successfully
+2023-07-20 10:08:04,096 - logger_file -INFO - Category was selected successfully from dropdown
+2023-07-20 10:08:04,164 - logger_file -INFO - item name was entered successfully
+2023-07-20 10:08:04,215 - logger_file -INFO - the search button was clicked successfully
+2023-07-20 10:17:01,363 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-20 10:17:01,510 - logger_file -INFO - Email and Password were entered successfully
+2023-07-20 10:17:01,565 - logger_file -INFO - Login button was clicked successfully
+2023-07-20 10:17:01,895 - logger_file -INFO - User is logged in successfully
+2023-07-20 10:17:01,985 - logger_file -INFO - Category was selected successfully from dropdown
+2023-07-20 10:17:02,052 - logger_file -INFO - item name was entered successfully
+2023-07-20 10:17:02,104 - logger_file -INFO - the search button was clicked successfully
+2023-07-20 10:23:09,780 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-20 10:23:09,929 - logger_file -INFO - Email and Password were entered successfully
+2023-07-20 10:23:09,983 - logger_file -INFO - Login button was clicked successfully
+2023-07-20 10:23:10,332 - logger_file -INFO - User is logged in successfully
+2023-07-20 10:23:10,416 - logger_file -INFO - Category was selected successfully from dropdown
+2023-07-20 10:23:10,481 - logger_file -INFO - item name was entered successfully
+2023-07-20 10:23:10,534 - logger_file -INFO - the search button was clicked successfully
+2023-07-20 10:23:10,950 - logger_file -INFO - the item was clicked successfully
+2023-07-20 10:24:15,960 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-20 10:24:16,100 - logger_file -INFO - Email and Password were entered successfully
+2023-07-20 10:24:16,154 - logger_file -INFO - Login button was clicked successfully
+2023-07-20 10:24:16,621 - logger_file -INFO - User is logged in successfully
+2023-07-20 10:24:16,710 - logger_file -INFO - Category was selected successfully from dropdown
+2023-07-20 10:24:16,780 - logger_file -INFO - item name was entered successfully
+2023-07-20 10:24:16,831 - logger_file -INFO - the search button was clicked successfully
+2023-07-20 10:24:17,199 - logger_file -INFO - the item was clicked successfully
+2023-07-20 10:24:17,505 - logger_file -INFO - the cart button was clicked successfully
+2023-07-20 10:24:45,757 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-20 10:24:45,897 - logger_file -INFO - Email and Password were entered successfully
+2023-07-20 10:24:45,955 - logger_file -INFO - Login button was clicked successfully
+2023-07-20 10:24:46,314 - logger_file -INFO - User is logged in successfully
+2023-07-20 10:24:46,401 - logger_file -INFO - Category was selected successfully from dropdown
+2023-07-20 10:24:46,469 - logger_file -INFO - item name was entered successfully
+2023-07-20 10:24:46,520 - logger_file -INFO - the search button was clicked successfully
+2023-07-20 10:24:46,915 - logger_file -INFO - the item was clicked successfully
+2023-07-20 10:24:47,274 - logger_file -INFO - the cart button was clicked successfully
+2023-07-20 10:31:19,494 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-20 10:31:19,643 - logger_file -INFO - Email and Password were entered successfully
+2023-07-20 10:31:19,704 - logger_file -INFO - Login button was clicked successfully
+2023-07-20 10:31:20,049 - logger_file -INFO - User is logged in successfully
+2023-07-20 10:31:20,136 - logger_file -INFO - Category was selected successfully from dropdown
+2023-07-20 10:31:20,208 - logger_file -INFO - item name was entered successfully
+2023-07-20 10:31:20,260 - logger_file -INFO - the search button was clicked successfully
+2023-07-20 10:31:20,683 - logger_file -INFO - the item was clicked successfully
+2023-07-20 10:31:21,016 - logger_file -INFO - the cart button was clicked successfully
+2023-07-20 10:32:17,770 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-20 10:32:17,913 - logger_file -INFO - Email and Password were entered successfully
+2023-07-20 10:32:17,971 - logger_file -INFO - Login button was clicked successfully
+2023-07-20 10:32:18,391 - logger_file -INFO - User is logged in successfully
+2023-07-20 10:32:18,476 - logger_file -INFO - Category was selected successfully from dropdown
+2023-07-20 10:32:18,545 - logger_file -INFO - item name was entered successfully
+2023-07-20 10:32:18,595 - logger_file -INFO - the search button was clicked successfully
+2023-07-20 10:32:18,907 - logger_file -INFO - the item was clicked successfully
+2023-07-20 10:32:19,234 - logger_file -INFO - the cart button was clicked successfully
+2023-07-20 10:33:16,725 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-20 10:33:16,877 - logger_file -INFO - Email and Password were entered successfully
+2023-07-20 10:33:16,934 - logger_file -INFO - Login button was clicked successfully
+2023-07-20 10:33:17,292 - logger_file -INFO - User is logged in successfully
+2023-07-20 10:33:17,382 - logger_file -INFO - Category was selected successfully from dropdown
+2023-07-20 10:33:17,457 - logger_file -INFO - item name was entered successfully
+2023-07-20 10:33:17,509 - logger_file -INFO - the search button was clicked successfully
+2023-07-20 10:33:17,958 - logger_file -INFO - the item was clicked successfully
+2023-07-20 10:33:18,280 - logger_file -INFO - the cart button was clicked successfully
+2023-07-20 10:33:18,508 - logger_file -INFO - the item quntity was verified successfully
+2023-07-20 11:50:35,600 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-20 11:50:35,741 - logger_file -INFO - Email and Password were entered successfully
+2023-07-20 11:50:35,799 - logger_file -INFO - Login button was clicked successfully
+2023-07-20 11:50:36,161 - logger_file -INFO - User is logged in successfully
+2023-07-20 11:50:36,248 - logger_file -INFO - the electronics field was selected successfully
+2023-07-20 11:50:36,311 - logger_file -INFO - the apex legends was entred successfully
+2023-07-20 11:50:36,364 - logger_file -INFO - the search button was clicked successfully
+2023-07-20 11:50:36,845 - logger_file -INFO - the apex legend was clicked successfully
+2023-07-20 11:50:37,161 - logger_file -INFO - the apex legend quantity was selected successfully
+2023-07-20 11:50:37,211 - logger_file -INFO - the cart button was clicked successfully
+2023-07-20 12:13:10,279 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-20 12:13:10,417 - logger_file -INFO - Email and Password were entered successfully
+2023-07-20 12:13:10,472 - logger_file -INFO - Login button was clicked successfully
+2023-07-20 12:13:10,846 - logger_file -INFO - User is logged in successfully
+2023-07-20 12:13:10,928 - logger_file -INFO - the electronics field was selected successfully
+2023-07-20 12:13:10,988 - logger_file -INFO - the apex legends was entred successfully
+2023-07-20 12:13:11,039 - logger_file -INFO - the search button was clicked successfully
+2023-07-20 12:13:11,772 - logger_file -INFO - the apex legend was clicked successfully
+2023-07-20 12:13:12,051 - logger_file -INFO - the apex legend quantity was selected successfully
+2023-07-20 12:13:12,100 - logger_file -INFO - the cart button was clicked successfully
+2023-07-20 12:13:12,712 - logger_file -INFO - the item quntity was verified successfully
+2023-07-20 12:13:12,769 - logger_file -INFO - the cart button was clicked successfully
+2023-07-20 12:13:12,846 - logger_file -INFO - the proceed to checkout button was clicked successfully
+2023-07-20 12:13:12,903 - logger_file -INFO - the click on your order button was clicked successfully
+2023-07-20 12:16:27,305 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-20 12:16:27,447 - logger_file -INFO - Email and Password were entered successfully
+2023-07-20 12:16:27,502 - logger_file -INFO - Login button was clicked successfully
+2023-07-20 12:16:27,866 - logger_file -INFO - User is logged in successfully
+2023-07-20 12:16:27,949 - logger_file -INFO - the electronics field was selected successfully
+2023-07-20 12:16:28,010 - logger_file -INFO - the apex legends was entred successfully
+2023-07-20 12:16:28,062 - logger_file -INFO - the search button was clicked successfully
+2023-07-20 12:16:28,496 - logger_file -INFO - the apex legend was clicked successfully
+2023-07-20 12:16:28,772 - logger_file -INFO - the apex legend quantity was selected successfully
+2023-07-20 12:16:28,821 - logger_file -INFO - the cart button was clicked successfully
+2023-07-20 12:16:29,054 - logger_file -INFO - the item quntity was verified successfully
+2023-07-20 12:16:29,113 - logger_file -INFO - the cart button was clicked successfully
+2023-07-20 12:16:29,187 - logger_file -INFO - the proceed to checkout button was clicked successfully
+2023-07-20 12:16:29,237 - logger_file -INFO - the click on your order button was clicked successfully
+2023-07-20 12:37:10,587 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-20 12:37:10,733 - logger_file -INFO - Email and Password were entered successfully
+2023-07-20 12:37:10,791 - logger_file -INFO - Login button was clicked successfully
+2023-07-20 12:37:11,568 - logger_file -INFO - User is logged in successfully
+2023-07-20 12:37:11,666 - logger_file -INFO - the electronics field was selected successfully
+2023-07-20 12:37:11,737 - logger_file -INFO - the apex legends was entred successfully
+2023-07-20 12:37:11,794 - logger_file -INFO - the search button was clicked successfully
+2023-07-20 12:37:12,398 - logger_file -INFO - the apex legend was clicked successfully
+2023-07-20 12:37:13,046 - logger_file -INFO - the apex legend quantity was selected successfully
+2023-07-20 12:37:13,100 - logger_file -INFO - the cart button was clicked successfully
+2023-07-20 12:37:13,435 - logger_file -INFO - the item quntity was verified successfully
+2023-07-20 12:37:13,497 - logger_file -INFO - the cart button was clicked successfully
+2023-07-20 12:37:13,580 - logger_file -INFO - the proceed to checkout button was clicked successfully
+2023-07-20 16:52:37,297 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-20 16:52:37,445 - logger_file -INFO - Email and Password were entered successfully
+2023-07-20 16:52:37,509 - logger_file -INFO - Login button was clicked successfully
+2023-07-20 16:52:37,914 - logger_file -INFO - User is logged in successfully
+2023-07-20 16:52:38,002 - logger_file -INFO - account link was clicked
+2023-07-20 16:52:38,071 - logger_file -INFO - the payment method button was clicked
+2023-07-20 16:52:38,416 - logger_file -INFO - paymentInformation was entred successfully
+2023-07-20 16:52:38,472 - logger_file -INFO - payment button was clicked
+2023-07-20 16:53:04,087 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-20 16:53:04,238 - logger_file -INFO - Email and Password were entered successfully
+2023-07-20 16:53:04,295 - logger_file -INFO - Login button was clicked successfully
+2023-07-20 16:53:04,643 - logger_file -INFO - User is logged in successfully
+2023-07-20 16:53:04,732 - logger_file -INFO - account link was clicked
+2023-07-20 16:53:04,795 - logger_file -INFO - the payment method button was clicked
+2023-07-20 16:53:05,148 - logger_file -INFO - paymentInformation was entred successfully
+2023-07-20 16:53:05,208 - logger_file -INFO - payment button was clicked
+2023-07-20 16:53:05,974 - logger_file -INFO - Expected Msg: Payment Method added sucessfully
+2023-07-20 16:53:42,935 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-20 16:53:43,084 - logger_file -INFO - Email and Password were entered successfully
+2023-07-20 16:53:43,139 - logger_file -INFO - Login button was clicked successfully
+2023-07-20 16:53:43,538 - logger_file -INFO - User is logged in successfully
+2023-07-20 16:53:43,626 - logger_file -INFO - account link was clicked
+2023-07-20 16:53:43,749 - logger_file -INFO - name was entered
+2023-07-20 16:53:43,861 - logger_file -INFO - phone Field was filled
+2023-07-20 16:54:36,709 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-20 16:54:36,862 - logger_file -INFO - Email and Password were entered successfully
+2023-07-20 16:54:36,923 - logger_file -INFO - Login button was clicked successfully
+2023-07-20 16:54:37,285 - logger_file -INFO - User is logged in successfully
+2023-07-20 16:54:37,372 - logger_file -INFO - account link was clicked
+2023-07-20 16:54:37,488 - logger_file -INFO - name was entered
+2023-07-20 16:54:37,611 - logger_file -INFO - phone Field was filled
+2023-07-20 16:56:40,559 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-20 16:56:40,706 - logger_file -INFO - Email and Password were entered successfully
+2023-07-20 16:56:40,762 - logger_file -INFO - Login button was clicked successfully
+2023-07-20 16:56:41,127 - logger_file -INFO - User is logged in successfully
+2023-07-20 16:56:41,215 - logger_file -INFO - account link was clicked
+2023-07-20 16:56:41,326 - logger_file -INFO - name was entered
+2023-07-20 16:56:41,435 - logger_file -INFO - phone Field was filled
+2023-07-20 16:57:46,858 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-20 16:57:47,013 - logger_file -INFO - Email and Password were entered successfully
+2023-07-20 16:57:47,069 - logger_file -INFO - Login button was clicked successfully
+2023-07-20 16:57:47,413 - logger_file -INFO - User is logged in successfully
+2023-07-20 16:57:47,502 - logger_file -INFO - account link was clicked
+2023-07-20 16:57:47,615 - logger_file -INFO - name was entered
+2023-07-20 16:57:47,725 - logger_file -INFO - phone Field was filled
+2023-07-20 16:57:47,792 - logger_file -INFO - update button was clicked
+2023-07-20 16:57:48,554 - logger_file -INFO - the account information was updated
+2023-07-20 16:58:15,514 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-20 16:58:15,665 - logger_file -INFO - Email and Password were entered successfully
+2023-07-20 16:58:15,719 - logger_file -INFO - Login button was clicked successfully
+2023-07-20 16:58:16,068 - logger_file -INFO - User is logged in successfully
+2023-07-20 16:58:16,156 - logger_file -INFO - account link was clicked
+2023-07-20 16:58:16,219 - logger_file -INFO - the payment method button was clicked
+2023-07-20 16:58:16,555 - logger_file -INFO - paymentInformation was entred successfully
+2023-07-20 16:58:16,618 - logger_file -INFO - payment button was clicked
+2023-07-20 17:00:41,347 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-20 17:00:41,491 - logger_file -INFO - Email and Password were entered successfully
+2023-07-20 17:00:41,543 - logger_file -INFO - Login button was clicked successfully
+2023-07-20 17:00:42,216 - logger_file -INFO - User is logged in successfully
+2023-07-20 17:00:42,302 - logger_file -INFO - account link was clicked
+2023-07-20 17:00:42,363 - logger_file -INFO - the payment method button was clicked
+2023-07-20 17:00:42,690 - logger_file -INFO - paymentInformation was entred successfully
+2023-07-20 17:00:42,755 - logger_file -INFO - payment button was clicked
+2023-07-20 17:01:08,309 - logger_file -INFO - Login Link Was clicked successfully
+2023-07-20 17:01:08,455 - logger_file -INFO - Email and Password were entered successfully
+2023-07-20 17:01:08,509 - logger_file -INFO - Login button was clicked successfully
+2023-07-20 17:01:08,925 - logger_file -INFO - User is logged in successfully
+2023-07-20 17:01:09,010 - logger_file -INFO - account link was clicked
+2023-07-20 17:01:09,071 - logger_file -INFO - the payment method button was clicked
+2023-07-20 17:01:09,407 - logger_file -INFO - paymentInformation was entred successfully
+2023-07-20 17:01:09,466 - logger_file -INFO - payment button was clicked
+2023-07-20 17:01:10,340 - logger_file -INFO - Expected Msg: Payment Method added sucessfully
+2023-08-23 13:34:38,088 - logger_file -INFO - Login Link Was clicked successfully
+2023-08-23 13:34:38,231 - logger_file -INFO - Email and Password were entered successfully
+2023-08-23 13:34:38,286 - logger_file -INFO - Login button was clicked successfully
+2023-08-23 13:34:38,630 - logger_file -INFO - User is logged in successfully
+2023-08-23 13:34:38,721 - logger_file -INFO - account link was clicked
+2023-08-23 13:34:38,836 - logger_file -INFO - name was entered
+2023-08-23 13:34:38,950 - logger_file -INFO - phone Field was filled
+2023-08-23 13:35:03,713 - logger_file -INFO - Login Link Was clicked successfully
+2023-08-23 13:35:03,855 - logger_file -INFO - Email and Password were entered successfully
+2023-08-23 13:35:03,905 - logger_file -INFO - Login button was clicked successfully
+2023-08-23 13:35:04,247 - logger_file -INFO - User is logged in successfully
+2023-08-23 13:35:04,330 - logger_file -INFO - account link was clicked
+2023-08-23 13:35:04,399 - logger_file -INFO - the address button was clicked
+2023-08-23 13:35:05,201 - logger_file -INFO - Address updated successfully
+2023-08-23 13:35:05,265 - logger_file -INFO - the address button was clicked
+2023-08-23 13:35:06,030 - logger_file -INFO - Expected Message: Address Added Successfully
+2023-08-25 00:22:13,942 - logger_file -INFO - Login Link Was clicked successfully
+2023-08-25 00:22:14,078 - logger_file -INFO - Email and Password were entered successfully
+2023-08-25 00:22:14,134 - logger_file -INFO - Login button was clicked successfully
+2023-08-25 00:22:14,452 - logger_file -INFO - User is logged in successfully
+2023-08-25 00:22:14,542 - logger_file -INFO - account link was clicked
+2023-08-25 00:22:14,602 - logger_file -INFO - the payment method button was clicked
+2023-08-25 00:22:14,916 - logger_file -INFO - paymentInformation was entred successfully
+2023-08-25 00:22:14,978 - logger_file -INFO - payment button was clicked
+2023-08-25 00:22:53,461 - logger_file -INFO - Login Link Was clicked successfully
+2023-08-25 00:22:53,631 - logger_file -INFO - Email and Password were entered successfully
+2023-08-25 00:22:53,684 - logger_file -INFO - Login button was clicked successfully
+2023-08-25 00:23:42,404 - logger_file -INFO - Login Link Was clicked successfully
+2023-08-25 00:23:42,540 - logger_file -INFO - Email and Password were entered successfully
+2023-08-25 00:23:42,592 - logger_file -INFO - Login button was clicked successfully
+2023-08-25 00:23:42,918 - logger_file -INFO - User is logged in successfully
+2023-08-26 13:47:31,735 - logger_file -INFO - Login Link Was clicked successfully
+2023-08-26 13:47:31,872 - logger_file -INFO - Email and Password were entered successfully
+2023-08-26 13:47:31,927 - logger_file -INFO - Login button was clicked successfully
+2023-08-26 13:47:32,261 - logger_file -INFO - User is logged in successfully
