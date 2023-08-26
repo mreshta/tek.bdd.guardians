@@ -900,3 +900,7 @@
 2023-08-26 13:47:31,872 - logger_file -INFO - Email and Password were entered successfully
 2023-08-26 13:47:31,927 - logger_file -INFO - Login button was clicked successfully
 2023-08-26 13:47:32,261 - logger_file -INFO - User is logged in successfully
+2023-08-26 14:04:25,614 - logger_file -INFO - Login Link Was clicked successfully
+2023-08-26 14:04:25,751 - logger_file -INFO - Email and Password were entered successfully
+2023-08-26 14:04:25,805 - logger_file -INFO - Login button was clicked successfully
+2023-08-26 14:04:26,131 - logger_file -INFO - User is logged in successfully
